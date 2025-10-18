@@ -19,7 +19,11 @@ Watch the API in action! This video demonstrates the complete setup and usage of
 
 ![Demo Video](transition.mp4)
 
-**[🎬 Watch Full Demo Video Here](transition.mp4)**
+
+
+https://github.com/user-attachments/assets/596f2f61-2455-4578-9a7c-e9355ba93067
+
+
 
 **Video Contents:**
 - 🚀 API setup and installation
