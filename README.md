@@ -17,11 +17,10 @@ A FastAPI-based translation service that translates between English and Bengali 
 
 Watch the API in action! This video demonstrates the complete setup and usage of the English-Bengali Translation API.
 
-![Demo Video](transition.mp4)
+
+https://github.com/user-attachments/assets/baf32895-ffe9-44f5-bba6-4d17c7d9b701
 
 
-
-https://github.com/user-attachments/assets/596f2f61-2455-4578-9a7c-e9355ba93067
 
 
 
