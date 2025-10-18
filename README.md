@@ -19,6 +19,8 @@ Watch the API in action! This video demonstrates the complete setup and usage of
 
 ![Demo Video](transition.mp4)
 
+**[🎬 Watch Full Demo Video Here](transition.mp4)**
+
 **Video Contents:**
 - 🚀 API setup and installation
 - 🔧 Model loading and configuration
@@ -27,7 +29,7 @@ Watch the API in action! This video demonstrates the complete setup and usage of
 - 🔍 Error handling demonstration
 - 📊 Performance monitoring
 
-> **Note**: Make sure the `transition.mp4` file is in your repository root directory for the video to display properly.
+> **Note**: The video is embedded above and also available as a direct link. Make sure the `transition.mp4` file is in your repository root directory for the video to display properly.
 
 ## 🚀 Quick Start
 
@@ -304,13 +306,3 @@ This project is licensed under the MIT License.
 - **OPUS**: For the parallel corpus dataset
 - **Jayanta8509**: For the fine-tuned model
 
-## 📞 Support
-
-For issues and questions:
-- Create an issue in the repository
-- Check the API documentation at `/docs`
-- Review the health endpoint at `/health`
-
----
-
-**Made with ❤️ for English-Bengali translation**
