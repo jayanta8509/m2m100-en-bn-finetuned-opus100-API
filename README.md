@@ -298,9 +298,7 @@ docker run -p 8000:8000 translation-api
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
 
-This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 
